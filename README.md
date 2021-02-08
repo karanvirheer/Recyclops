@@ -41,13 +41,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 
 * Javascript
@@ -108,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Karanvir Heer - [@twitter_handle](https://twitter.com/Karanvir_H) - email
+Karanvir Heer - [@Karanvir_H](https://twitter.com/Karanvir_H) - email
 
 Project Link: [https://github.com/karanvirheer/repo_name](https://github.com/karanvirheer/repo_name)
 
