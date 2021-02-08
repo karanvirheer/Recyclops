@@ -104,10 +104,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Karanvir Heer - [@Karanvir_H](https://twitter.com/Karanvir_H)
 * Saruggan Thiruchelvan - [@tsaruggan](https://github.com/tsaruggan)
 
-Project Link: [https://github.com/karanvirheer/repo_name](https://github.com/karanvirheer/repo_name)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
